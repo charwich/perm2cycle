@@ -32,3 +32,6 @@ while k do
 	
 	k, v = next(tbl)
 end
+
+print()
+
