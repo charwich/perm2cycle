@@ -1,5 +1,5 @@
 #!/usr/bin/env lua
-
+--hi
 if not arg[1] then
 	print("Prints a permutation in cycle notation.")
 	print("Usage: "..arg[0].." a_1 a_2 ... a_k")
